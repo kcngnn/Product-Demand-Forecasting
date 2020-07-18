@@ -24,6 +24,6 @@ ARIMA model, Simple/Double/Triple Exponential Smoothing models
 
 ### File(s) included: 
 - Analysis and Model: This notebook provides analysis of the dataset, data preprocessing and model development.
-- Code to run forecast automatically: This notebook gives code to run the forecast automatically based on analysis from the first file.
+- Code to run forecast automatically: This notebook gives code to run the forecast automatically based on analysis from the first file. The forecast user just needs to load data and choose the number of forecast periods to generate forecast and get lists of products that cannot be forecasts (stopped products and new products).
 
 *Dataset can be accessed from the provided Kaggle link.*
