@@ -20,7 +20,7 @@ The objective is to forecast demands for thousands of products at four central w
 Python
 
 ### Technique(s): 
-ARIMA model, Simple/Double/Triple Exponential Smoothing models
+ARIMA/SARIMA model, Simple/Double/Triple Exponential Smoothing models, Prophet model
 
 ### File(s) included: 
 - Analysis and Model: This notebook provides analysis of the dataset, data preprocessing and model development.
